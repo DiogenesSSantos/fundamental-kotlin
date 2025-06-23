@@ -1,4 +1,4 @@
-package fundamentos.Bclasse
+package fundamentos.B_classe
 
 import com.github.diogenesssantos.fundamentos.Bclasse.Proprietario
 import com.github.diogenesssantos.fundamentos.Bclasse.Veiculo

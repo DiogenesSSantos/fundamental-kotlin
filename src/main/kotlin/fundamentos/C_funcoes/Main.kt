@@ -1,4 +1,4 @@
-package fundamentos.Cfuncoesreturnsparametros
+package fundamentos.C_funcoes
 
 import kotlin.random.Random
 
